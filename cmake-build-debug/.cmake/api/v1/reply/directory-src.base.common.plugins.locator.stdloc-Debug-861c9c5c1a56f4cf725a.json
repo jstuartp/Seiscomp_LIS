@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/plugins/locator/stdloc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/plugins",
+			"paths" : 
+			[
+				"lib/stdloc.so"
+			],
+			"targetId" : "stdloc::@06ca8d89a1f13007d3a6",
+			"targetIndex" : 150,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/common/plugins/locator/stdloc/descriptions/global_stdloc.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/plugins/locator/stdloc",
+		"source" : "src/base/common/plugins/locator/stdloc"
+	}
+}

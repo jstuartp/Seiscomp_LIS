@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/seedlink/plugins/reftek_plugin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 55,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/seedlink",
+			"paths" : 
+			[
+				"bin/reftek_plugin"
+			],
+			"targetId" : "reftek_plugin::@aee3387b7c2efe946002",
+			"targetIndex" : 90,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/seedlink/plugins/reftek_plugin/descriptions/seedlink_reftek.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/seedlink/plugins/reftek_plugin",
+		"source" : "src/base/seedlink/plugins/reftek_plugin"
+	}
+}

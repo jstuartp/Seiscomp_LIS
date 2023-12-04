@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/tools/inventory/fdsnxml2inv/test",
+		"source" : "src/base/main/apps/tools/inventory/fdsnxml2inv/test"
+	}
+}

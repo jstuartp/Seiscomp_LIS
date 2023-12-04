@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_GUI_EXECUTABLE"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/gui-qt/scheli/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 630,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 637,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/scheli"
+			],
+			"targetId" : "scheli::@fcefef977e7b96e0ac2b",
+			"targetIndex" : 103,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "etc/defaults",
+			"paths" : 
+			[
+				"src/base/main/apps/gui-qt/scheli/config/scheli.cfg"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/main/apps/gui-qt/scheli/descriptions/scheli.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/gui-qt/scheli",
+		"source" : "src/base/main/apps/gui-qt/scheli"
+	}
+}

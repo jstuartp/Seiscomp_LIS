@@ -1,0 +1,43 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/common/libs/seiscomp/processing/fx/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/processing/fx/descriptions/global_dfx.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/processing/fx",
+		"source" : "src/base/common/libs/seiscomp/processing/fx"
+	}
+}

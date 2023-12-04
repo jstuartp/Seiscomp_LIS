@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/seedlink/plugins/ewexport_plugin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/seedlink",
+			"paths" : 
+			[
+				"bin/ewexport_plugin"
+			],
+			"targetId" : "ewexport_plugin::@08f696c5a5594a3a77f1",
+			"targetIndex" : 29,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/seedlink/plugins/ewexport_plugin/descriptions/seedlink_ewexport.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/seedlink/plugins/ewexport_plugin",
+		"source" : "src/base/seedlink/plugins/ewexport_plugin"
+	}
+}

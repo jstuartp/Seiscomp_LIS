@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/processing/scevent/plugins/events/mmi/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/scevent",
+			"paths" : 
+			[
+				"lib/evmmi.so"
+			],
+			"targetId" : "evmmi::@6b81eea9ec023e1b0194",
+			"targetIndex" : 25,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/processing/scevent/plugins/events/mmi",
+		"source" : "src/base/main/apps/processing/scevent/plugins/events/mmi"
+	}
+}

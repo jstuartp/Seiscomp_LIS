@@ -1,0 +1,109 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_EXECUTABLE",
+			"SC_INSTALL_INIT"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/apps/messaging/scmaster/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 521,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 528,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 790,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/scmaster"
+			],
+			"targetId" : "scmaster::@bbde6cfa851949b486d3",
+			"targetIndex" : 110,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "etc/defaults",
+			"paths" : 
+			[
+				"src/base/common/apps/messaging/scmaster/config/scmaster.cfg"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "etc/init",
+			"paths" : 
+			[
+				"src/base/common/apps/messaging/scmaster/config/scmaster.py"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/common/apps/messaging/scmaster/descriptions/kernel-messaging.xml",
+				"src/base/common/apps/messaging/scmaster/descriptions/scmaster.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/apps/messaging/scmaster",
+		"source" : "src/base/common/apps/messaging/scmaster"
+	}
+}

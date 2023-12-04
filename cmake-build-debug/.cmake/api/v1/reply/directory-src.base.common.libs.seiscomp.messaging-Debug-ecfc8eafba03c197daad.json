@@ -1,0 +1,67 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_SUBDIR_SOURCES"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/libs/seiscomp/messaging/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/messaging/messages",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/messaging/messages/database.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/messaging/messages",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/messaging/messages/service.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/messaging",
+		"source" : "src/base/common/libs/seiscomp/messaging"
+	}
+}

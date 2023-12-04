@@ -1,0 +1,95 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_EXECUTABLE",
+			"SC_INSTALL_INIT"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/processing/screpick/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 521,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 790,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/screpick"
+			],
+			"targetId" : "screpick::@1a296a35290af01d16bd",
+			"targetIndex" : 122,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "etc/init",
+			"paths" : 
+			[
+				{
+					"from" : "src/base/main/../common/apps/templates/initd.py",
+					"to" : "screpick.py"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/main/apps/processing/screpick/descriptions/screpick.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/processing/screpick",
+		"source" : "src/base/main/apps/processing/screpick"
+	}
+}

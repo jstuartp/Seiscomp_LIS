@@ -1,0 +1,120 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY",
+			"MAKE_MONITOR_PLUGIN"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/tools/scm/plugins/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 4,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 4,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 8
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/monitor",
+			"paths" : 
+			[
+				"lib/memailplugin.so"
+			],
+			"targetId" : "memailplugin::@47793d32a5b284e7f1ce",
+			"targetIndex" : 67,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/monitor",
+			"paths" : 
+			[
+				"lib/mtextplugin.so"
+			],
+			"targetId" : "mtextplugin::@47793d32a5b284e7f1ce",
+			"targetIndex" : 75,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/monitor",
+			"paths" : 
+			[
+				"lib/mncursesplugin.so"
+			],
+			"targetId" : "mncursesplugin::@47793d32a5b284e7f1ce",
+			"targetIndex" : 71,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/tools/scm/plugins",
+		"source" : "src/base/main/apps/tools/scm/plugins"
+	}
+}

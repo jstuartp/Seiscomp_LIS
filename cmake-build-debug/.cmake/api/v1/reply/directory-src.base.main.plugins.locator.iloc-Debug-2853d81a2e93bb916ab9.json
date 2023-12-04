@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/main/plugins/locator/iloc",
+		"source" : "src/base/main/plugins/locator/iloc"
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_LIB_INSTALL_HEADERS"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/tools/scardac/libs/seiscomp/plugins/dataavailability/collector/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/plugins/dataavailabilty/collector",
+			"paths" : 
+			[
+				"src/base/main/apps/tools/scardac/libs/seiscomp/plugins/dataavailability/collector/sds.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/tools/scardac/libs/seiscomp/plugins/dataavailability/collector",
+		"source" : "src/base/main/apps/tools/scardac/libs/seiscomp/plugins/dataavailability/collector"
+	}
+}

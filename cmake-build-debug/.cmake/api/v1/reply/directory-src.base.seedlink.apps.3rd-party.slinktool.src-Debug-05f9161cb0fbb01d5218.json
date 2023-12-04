@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/seedlink/apps/3rd-party/slinktool/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/slinktool"
+			],
+			"targetId" : "slinktool::@55c2059544a4776fbd62",
+			"targetIndex" : 146,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/seedlink/apps/3rd-party/slinktool/src",
+		"source" : "src/base/seedlink/apps/3rd-party/slinktool/src"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/3rd-party/tau",
+		"source" : "src/base/common/libs/3rd-party/tau"
+	}
+}

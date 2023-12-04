@@ -1,0 +1,89 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_INSTALL_DATA"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/libs/seiscomp/datamodel/share/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 778,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/db",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/share/sqlite3.sql",
+				"src/base/common/libs/seiscomp/datamodel/share/mysql.sql",
+				"src/base/common/libs/seiscomp/datamodel/share/postgres.sql"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/db",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/share/migrations"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/db",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/share/mysql_setup.py",
+				"src/base/common/libs/seiscomp/datamodel/share/postgres_setup.py",
+				"src/base/common/libs/seiscomp/datamodel/share/sqlite3_setup.py",
+				"src/base/common/libs/seiscomp/datamodel/share/utils.py",
+				"src/base/common/libs/seiscomp/datamodel/share/pkexec_wrapper.sh"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/datamodel/share",
+		"source" : "src/base/common/libs/seiscomp/datamodel/share"
+	}
+}

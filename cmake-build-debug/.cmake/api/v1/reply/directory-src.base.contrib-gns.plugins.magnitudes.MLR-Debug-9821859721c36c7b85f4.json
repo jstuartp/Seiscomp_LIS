@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/contrib-gns/plugins/magnitudes/MLR/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/plugins",
+			"paths" : 
+			[
+				"lib/mlr.so"
+			],
+			"targetId" : "mlr::@cb32cb7b1c85ebefdfa4",
+			"targetIndex" : 70,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/contrib-gns/plugins/magnitudes/MLR/descriptions/global_mlr.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/contrib-gns/plugins/magnitudes/MLR",
+		"source" : "src/base/contrib-gns/plugins/magnitudes/MLR"
+	}
+}

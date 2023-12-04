@@ -1,0 +1,52 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_LIB_INSTALL_HEADERS"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/libs/seiscomp/core/platform/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/core/platform",
+			"paths" : 
+			[
+				"cmake-build-debug/src/base/common/libs/seiscomp/core/platform/platform.h",
+				"src/base/common/libs/seiscomp/core/platform/osx.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/core/platform",
+		"source" : "src/base/common/libs/seiscomp/core/platform"
+	}
+}

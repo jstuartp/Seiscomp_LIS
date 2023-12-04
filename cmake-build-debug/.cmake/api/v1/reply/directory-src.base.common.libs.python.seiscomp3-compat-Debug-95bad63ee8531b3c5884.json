@@ -1,0 +1,52 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/common/libs/python/seiscomp3-compat/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/python/seiscomp3",
+			"paths" : 
+			[
+				"src/base/common/libs/python/seiscomp3-compat/Client.py",
+				"src/base/common/libs/python/seiscomp3-compat/Core.py",
+				"src/base/common/libs/python/seiscomp3-compat/DataModel.py",
+				"src/base/common/libs/python/seiscomp3-compat/Geo.py",
+				"src/base/common/libs/python/seiscomp3-compat/IO.py",
+				"src/base/common/libs/python/seiscomp3-compat/Logging.py",
+				"src/base/common/libs/python/seiscomp3-compat/Math.py",
+				"src/base/common/libs/python/seiscomp3-compat/Seismology.py",
+				"src/base/common/libs/python/seiscomp3-compat/System.py",
+				"src/base/common/libs/python/seiscomp3-compat/Utils.py"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/python/seiscomp3-compat",
+		"source" : "src/base/common/libs/python/seiscomp3-compat"
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_LIBRARY",
+			"SC_LIB_INSTALL_HEADERS"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 356,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libseiscomp_datamodel_sm.so"
+			],
+			"targetId" : "seiscomp_datamodel_sm::@96611053171b3160699a",
+			"targetIndex" : 137,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/strongmotion",
+			"paths" : 
+			[
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/types.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/literaturesource.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/surfacerupture.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/filterparameter.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/simplefilter.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/simplefilterchainmember.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/peakmotion.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/fileresource.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/contact.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/record.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/eventrecordreference.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/rupture.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/strongorigindescription.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/strongmotionparameters.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/strongmotionparameters_package.h",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/databasereader.h",
+				"cmake-build-debug/src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/api.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion",
+		"source" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion"
+	}
+}

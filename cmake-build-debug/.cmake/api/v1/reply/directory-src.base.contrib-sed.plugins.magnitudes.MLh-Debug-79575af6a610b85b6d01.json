@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/contrib-sed/plugins/magnitudes/MLh/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/plugins",
+			"paths" : 
+			[
+				"lib/mlh.so"
+			],
+			"targetId" : "mlh::@88df6b83c1ddd82485e1",
+			"targetIndex" : 69,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/contrib-sed/plugins/magnitudes/MLh/descriptions/global_mlh.xml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/contrib-sed/plugins/magnitudes/MLh",
+		"source" : "src/base/contrib-sed/plugins/magnitudes/MLh"
+	}
+}

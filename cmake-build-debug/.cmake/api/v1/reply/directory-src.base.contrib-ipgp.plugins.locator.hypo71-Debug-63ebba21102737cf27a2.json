@@ -1,0 +1,117 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/contrib-ipgp/plugins/locator/hypo71/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/plugins",
+			"paths" : 
+			[
+				"lib/hypo71.so"
+			],
+			"targetId" : "hypo71::@8c0bc057f4510edcff87",
+			"targetIndex" : 35,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/contrib-ipgp/plugins/locator/hypo71/descriptions/global_hypo71.xml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/doc/hypo71/examples",
+			"paths" : 
+			[
+				"src/base/contrib-ipgp/plugins/locator/hypo71/config/hypo71"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "share/doc/hypo71",
+			"paths" : 
+			[
+				"src/base/contrib-ipgp/plugins/locator/hypo71/README"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "share/doc/hypo71/examples",
+			"paths" : 
+			[
+				"src/base/contrib-ipgp/plugins/locator/hypo71/config/hypo71.cfg"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/contrib-ipgp/plugins/locator/hypo71",
+		"source" : "src/base/contrib-ipgp/plugins/locator/hypo71"
+	}
+}

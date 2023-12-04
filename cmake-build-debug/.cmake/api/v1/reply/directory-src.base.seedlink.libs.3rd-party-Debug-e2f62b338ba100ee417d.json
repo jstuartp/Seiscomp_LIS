@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/seedlink/libs/3rd-party",
+		"source" : "src/base/seedlink/libs/3rd-party"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_LIB_INSTALL_HEADERS"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/apps/messaging/scmaster/seiscomp/broker/utils/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/broker/utils",
+			"paths" : 
+			[
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/utils/circular.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/utils/khash.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/utils/utils.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/apps/messaging/scmaster/seiscomp/broker/utils",
+		"source" : "src/base/common/apps/messaging/scmaster/seiscomp/broker/utils"
+	}
+}

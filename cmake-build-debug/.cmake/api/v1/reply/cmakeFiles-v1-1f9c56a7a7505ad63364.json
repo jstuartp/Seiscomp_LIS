@@ -1,0 +1,2346 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Bruce-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Compaq-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/HP-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/LCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SDCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SunPro-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XL-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-Determine-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/HP-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XL-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindLibXml2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPythonInterp.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake/FindNumpy.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPythonLibs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindFrameworks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPythonInterp.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/AddFileDependencies.cmake"
+		},
+		{
+			"path" : "cmake/SeisComP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "src/CMakeLists.txt"
+		},
+		{
+			"path" : "doc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/CMakeLists.txt"
+		},
+		{
+			"path" : "src/extras/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/3rd-party/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/python/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/swig/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/3rd-party/libmseed/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/seiscomp/config/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/system/libs/python/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/libs/python/seiscomp3-compat/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/apps/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/system/apps/seiscomp/seiscomp-python.in"
+		},
+		{
+			"path" : "src/system/apps/utils/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"path" : "src/base/common/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "cmake/FindOpenSSL.cmake"
+		},
+		{
+			"path" : "cmake/FindMySQL.cmake"
+		},
+		{
+			"path" : "src/base/extras/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-gns/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "src/base/contrib-sed/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "src/base/main/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "cmake/FindOpenSSL.cmake"
+		},
+		{
+			"path" : "src/base/seedlink/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/templates/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/libs/3rd-party/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/libs/slutils/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/flex.cmake"
+		},
+		{
+			"path" : "src/base/seedlink/libs/plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/libs/3rd-party/libslink/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/seedlink/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/utils/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/3rd-party/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/3rd-party/slinktool/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/3rd-party/slarchive/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/3rd-party/slinktool/src/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/apps/3rd-party/slarchive/src/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindOpenSSL.cmake"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/mseedfifo_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/chain_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/caps_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindOpenSSL.cmake"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/echopro_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/ewexport_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/ewexport_pasv_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/fs_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/minilogger_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/mseedscan_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/naqsplugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/q330plugin/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/reftek_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/scream_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/scream2_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/serial_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/sockplugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/wave24_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/win_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/seedlink/plugins/gdrt_plugin/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"path" : "src/base/common/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/tools/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/python/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/waveforms/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/gui/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/share/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/seiscomp/broker/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/seiscomp/broker/utils/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/plugins/dbstore/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/messaging/scmaster/plugins/dbg-delay/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/tools/scchkcfg/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/tools/scconfig/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfig.cmake"
+		},
+		{
+			"path" : "src/base/common/apps/tools/scconfig/icons.qrc"
+		},
+		{
+			"path" : "src/base/common/apps/waveforms/scwfas/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/apps/gui/descriptions/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/core/platform.h.in"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/core/version.h"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/xml/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/swig/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/python/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/tau/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/locsat/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckStructHasMember.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/TestBigEndian.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/InstallRequiredSystemLibraries.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/build/cmake/LoadVersion.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckIncludeFiles.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/build/cmake/CheckAtomics.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/src/bson/bson-config.h.in"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/src/bson/bson-version.h.in"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/src/libbson-1.0.pc.in"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/tau/libtau/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/tau/bin/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/tau/data/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/locsat/data/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/build/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/build/cmake/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/src/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/src/bson/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/3rd-party/libbson/src/jsonsl/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/logging/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/core/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/core/platform/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/system/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/archive/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/gfarchive/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/quakelink/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/records/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/recordstream/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/recordfilter/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/streams/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/streams/filter/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/io/xml/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/utils/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/datamodel/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/datamodel/CMakeLists.generated"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/datamodel/share/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/datamodel/exchange/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/math/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/math/filter/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/math/restitution/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/math/windows/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/geo/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/geo/index/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/geo/formats/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/seismology/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/seismology/locator/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/seismology/regions/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/seismology/ttt/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/wired/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/wired/buffers/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/wired/devices/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/wired/protocols/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/client/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/messaging/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/messaging/database/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/messaging/messages/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/fx/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/picker/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/secondarypicker/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/amplitudes/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/magnitudes/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/processing/operator/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/qc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/core/images.qrc"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/datamodel/icons.qrc"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/map/mapicons.qrc"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfig.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/unittest/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/core/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/datamodel/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/plot/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/map/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/map/projections/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/gui/map/layers/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/core/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/datamodel/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/io/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/processing/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/utils/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/gui/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/io/records/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/io/recordstream/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/io/streams/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/seiscomp/test/io/streams/filter/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/libs/python/seiscomp3-compat/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/plugins/database/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/plugins/locator/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/plugins/database/mysql/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/plugins/locator/external/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/common/plugins/locator/stdloc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/slmon/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/utils/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/slmon/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/slmon/templates/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/slmon/apps/slmon/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/libs/python/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/apps/tab2inv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/apps/tab2tab/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/nettab/apps/tabinvmodifier/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/utils/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/utils/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/extras/utils/libs/python/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-gns/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-gns/plugins/magnitudes/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-gns/plugins/magnitudes/MLR/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/apps/3rd-party/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/apps/ew2sc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/apps/3rd-party/Hypo71PC/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineFortranCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFortranCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeFortranCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFortranInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-Fortran.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-Fortran.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestFortranCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFortranCompilerABI.F90"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/250/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFortranCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeFortranCompiler.cmake"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/plugins/locator/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/plugins/magnitudes/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/plugins/locator/hypo71/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-ipgp/plugins/magnitudes/md/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/libs/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/libs/seiscomp/datamodel/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/CMakeLists.generated"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/apps/screloc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/apps/scorg2nll/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/apps/scwfparam/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/locator/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/magnitudes/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/master/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/locator/nll/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/magnitudes/MLh/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/contrib-sed/plugins/master/datamodel/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/access/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/fdsnws/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/python/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindBoost.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfig.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/fdsnws/test/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scamp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scautoloc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scautopick/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scmag/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scqc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/screpick/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/seiscomp/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/seiscomp/plugins/events/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/plugins/events/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/plugins/events/mmi/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/plugins/events/regioncheck/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scevent/plugins/events/regioncheck/test/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scqc/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scqc/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scqc/seiscomp/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/processing/scqc/seiscomp/plugins/qc/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/ql2sc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/sccnv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scdb/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scdispatch/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scimex/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scimport/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scm/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scplot/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scquery/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scxmldump/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scxmlmerge/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/sczip/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/dlsv2inv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/fdsnxml2inv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/fdsnxml2inv/fdsnxml/CMakeLists.generated"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/invextr/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/scinv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/fdsnxml2inv/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/inventory/fdsnxml2inv/test/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/libs/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/test/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/libs/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/libs/seiscomp/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/libs/seiscomp/plugins/dataavailability/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scardac/libs/seiscomp/plugins/dataavailability/collector/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scm/seiscomp/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scm/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "cmake/FindNcurses.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scm/seiscomp/plugins/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/tools/scm/seiscomp/plugins/monitor/CMakeLists.txt"
+		},
+		{
+			"path" : "win32api.h.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scesv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scheli/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5PrintSupport/Qt5PrintSupportConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5PrintSupport/Qt5PrintSupportConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Qt5PrintSupport/Qt5PrintSupport_QCupsPrinterSupportPlugin.cmake"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scmapcut/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scmm/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scmv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scolv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scqcv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scrttv/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/apps/gui-qt/scshowevent/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/plugins/locator/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/plugins/magnitudes/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/plugins/locator/iloc/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/plugins/magnitudes/nuttli/CMakeLists.txt"
+		},
+		{
+			"path" : "src/base/main/plugins/magnitudes/nuttli/test/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/stuart/seiscomp/cmake-build-debug",
+		"source" : "/home/stuart/seiscomp"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

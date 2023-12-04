@@ -1,0 +1,233 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/common/libs/xml/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 76,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 98,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 109,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/xml",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/quakeml_types.xsd"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.3",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.3/sc3ml_0.3.xsd"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.5",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.5/quakeml_types.xsd",
+				"src/base/common/libs/xml/0.5/sc3ml_0.5.xsd",
+				"src/base/common/libs/xml/0.5/sc3ml_0.5__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.5/sc3ml_0.5__quakeml_1.2-RT.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.6",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.6/quakeml_types.xsd",
+				"src/base/common/libs/xml/0.6/sc3ml_0.6.xsd",
+				"src/base/common/libs/xml/0.6/sc3ml_0.6__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.6/sc3ml_0.6__quakeml_1.2-RT.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.7",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.7/quakeml_types.xsd",
+				"src/base/common/libs/xml/0.7/sc3ml_0.7.xsd",
+				"src/base/common/libs/xml/0.7/sc3ml_0.7__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.7/sc3ml_0.7__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.7/sc3ml_0.7__quakeml_1.2-RT_eewd.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.8",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.8/quakeml_types.xsd",
+				"src/base/common/libs/xml/0.8/sc3ml_0.8.xsd",
+				"src/base/common/libs/xml/0.8/sc3ml_0.8__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.8/sc3ml_0.8__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.8/quakeml_1.2__sc3ml_0.8.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.9",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.9/quakeml_types.xsd",
+				"src/base/common/libs/xml/0.9/sc3ml_0.9.xsd",
+				"src/base/common/libs/xml/0.9/sc3ml_0.9__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.9/sc3ml_0.9__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.9/quakeml_1.2__sc3ml_0.9.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.10",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.10/sc3ml_0.10.xsd",
+				"src/base/common/libs/xml/0.10/sc3ml_0.10__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.10/sc3ml_0.10__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.10/quakeml_1.2__sc3ml_0.10.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.11",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.11/sc3ml_0.11.xsd",
+				"src/base/common/libs/xml/0.11/sc3ml_0.11__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.11/sc3ml_0.11__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.11/quakeml_1.2__sc3ml_0.11.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.12",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.12/sc3ml_0.12.xsd",
+				"src/base/common/libs/xml/0.12/sc3ml_0.12__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.12/sc3ml_0.12__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.12/quakeml_1.2__sc3ml_0.12.xsl"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "share/xml/0.13",
+			"paths" : 
+			[
+				"src/base/common/libs/xml/0.13/sc3ml_0.13.xsd",
+				"src/base/common/libs/xml/0.13/sc3ml_0.13__quakeml_1.2.xsl",
+				"src/base/common/libs/xml/0.13/sc3ml_0.13__quakeml_1.2-RT.xsl",
+				"src/base/common/libs/xml/0.13/quakeml_1.2__sc3ml_0.13.xsl"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/xml",
+		"source" : "src/base/common/libs/xml"
+	}
+}

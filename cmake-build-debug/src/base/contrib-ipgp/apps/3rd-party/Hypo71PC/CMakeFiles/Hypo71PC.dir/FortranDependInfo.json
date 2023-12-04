@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/stuart/seiscomp/cmake-build-debug/src/base/contrib-ipgp/apps/3rd-party/Hypo71PC",
+	"dir-cur-src" : "/home/stuart/seiscomp/src/base/contrib-ipgp/apps/3rd-party/Hypo71PC",
+	"dir-top-bld" : "/home/stuart/seiscomp/cmake-build-debug",
+	"dir-top-src" : "/home/stuart/seiscomp",
+	"exports" : [],
+	"include-dirs" : 
+	[
+		"/home/stuart/seiscomp/src/system/libs/3rd-party/fmt/include",
+		"/home/stuart/seiscomp/src/system/libs",
+		"src/system/libs",
+		"/usr/include",
+		"/home/stuart/seiscomp/src/base/contrib-ipgp/libs",
+		"src/base/contrib-ipgp/libs",
+		"/home/stuart/seiscomp/src/base/contrib-ipgp/../common/libs",
+		"src/base/contrib-ipgp/../common/libs",
+		"/home/stuart/seiscomp/src/base/contrib-ipgp/apps/3rd-party/Hypo71PC/."
+	],
+	"language" : "Fortran",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/stuart/seiscomp/cmake-build-debug/src/base/contrib-ipgp/apps/3rd-party/Hypo71PC",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}

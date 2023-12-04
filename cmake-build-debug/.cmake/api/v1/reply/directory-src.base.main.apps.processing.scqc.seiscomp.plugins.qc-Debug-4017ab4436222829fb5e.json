@@ -1,0 +1,80 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_LIBRARY",
+			"SC_LIB_INSTALL_HEADERS"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/processing/scqc/seiscomp/plugins/qc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 356,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libseiscomp_qcplugin.so"
+			],
+			"targetId" : "seiscomp_qcplugin::@491ff5007cd123df0cf5",
+			"targetIndex" : 140,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/plugins/qc",
+			"paths" : 
+			[
+				"src/base/main/apps/processing/scqc/seiscomp/plugins/qc/qcplugin.h",
+				"src/base/main/apps/processing/scqc/seiscomp/plugins/qc/qcconfig.h",
+				"src/base/main/apps/processing/scqc/seiscomp/plugins/qc/qcmessenger.h",
+				"src/base/main/apps/processing/scqc/seiscomp/plugins/qc/qcbuffer.h",
+				"cmake-build-debug/src/base/main/apps/processing/scqc/seiscomp/plugins/qc/api.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/processing/scqc/seiscomp/plugins/qc",
+		"source" : "src/base/main/apps/processing/scqc/seiscomp/plugins/qc"
+	}
+}

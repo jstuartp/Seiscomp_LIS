@@ -1,0 +1,79 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_LIBRARY",
+			"SC_LIB_INSTALL_HEADERS"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/tools/scm/seiscomp/plugins/monitor/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 356,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libseiscomp_mplugin.so"
+			],
+			"targetId" : "seiscomp_mplugin::@d61be01031e8a8c1c923",
+			"targetIndex" : 139,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/plugins/monitor",
+			"paths" : 
+			[
+				"src/base/main/apps/tools/scm/seiscomp/plugins/monitor/monitorplugininterface.h",
+				"src/base/main/apps/tools/scm/seiscomp/plugins/monitor/monitoroutplugininterface.h",
+				"src/base/main/apps/tools/scm/seiscomp/plugins/monitor/types.h",
+				"cmake-build-debug/src/base/main/apps/tools/scm/seiscomp/plugins/monitor/api.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/tools/scm/seiscomp/plugins/monitor",
+		"source" : "src/base/main/apps/tools/scm/seiscomp/plugins/monitor"
+	}
+}

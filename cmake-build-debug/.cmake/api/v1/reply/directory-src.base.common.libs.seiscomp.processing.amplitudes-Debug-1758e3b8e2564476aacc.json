@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/processing/amplitudes",
+		"source" : "src/base/common/libs/seiscomp/processing/amplitudes"
+	}
+}

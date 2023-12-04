@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_INSTALL_DATA"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 778,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/db/wfparam",
+			"paths" : 
+			[
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share/sqlite3.sql",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share/mysql.sql",
+				"src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share/postgres.sql"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share",
+		"source" : "src/base/contrib-sed/libs/seiscomp/datamodel/strongmotion/share"
+	}
+}

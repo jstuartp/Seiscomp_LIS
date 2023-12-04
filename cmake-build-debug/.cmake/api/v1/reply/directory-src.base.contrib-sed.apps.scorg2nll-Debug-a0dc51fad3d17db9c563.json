@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_EXECUTABLE"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/contrib-sed/apps/scorg2nll/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 521,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/scorg2nll"
+			],
+			"targetId" : "scorg2nll::@e75b18ec9dfd4f49066a",
+			"targetIndex" : 114,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/contrib-sed/apps/scorg2nll",
+		"source" : "src/base/contrib-sed/apps/scorg2nll"
+	}
+}

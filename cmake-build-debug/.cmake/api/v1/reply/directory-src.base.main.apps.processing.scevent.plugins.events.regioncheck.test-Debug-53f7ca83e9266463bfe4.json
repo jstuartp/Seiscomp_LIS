@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/processing/scevent/plugins/events/regioncheck/test",
+		"source" : "src/base/main/apps/processing/scevent/plugins/events/regioncheck/test"
+	}
+}

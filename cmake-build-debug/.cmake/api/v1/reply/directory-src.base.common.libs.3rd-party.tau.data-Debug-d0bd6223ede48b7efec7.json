@@ -1,0 +1,56 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_INSTALL_DATA"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/libs/3rd-party/tau/data/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 116,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 778,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/ttt",
+			"paths" : 
+			[
+				"cmake-build-debug/src/base/common/libs/3rd-party/tau/data/iasp91.tbl",
+				"cmake-build-debug/src/base/common/libs/3rd-party/tau/data/iasp91.hed",
+				"cmake-build-debug/src/base/common/libs/3rd-party/tau/data/ak135.tbl",
+				"cmake-build-debug/src/base/common/libs/3rd-party/tau/data/ak135.hed",
+				"src/base/common/libs/3rd-party/tau/data/iasp91.tvel",
+				"src/base/common/libs/3rd-party/tau/data/ak135.tvel"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/3rd-party/tau/data",
+		"source" : "src/base/common/libs/3rd-party/tau/data"
+	}
+}

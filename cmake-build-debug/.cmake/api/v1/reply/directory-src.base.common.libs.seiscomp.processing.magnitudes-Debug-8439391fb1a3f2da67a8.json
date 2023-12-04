@@ -1,0 +1,75 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_INSTALL_DATA"
+		],
+		"files" : 
+		[
+			"src/base/common/libs/seiscomp/processing/magnitudes/CMakeLists.txt",
+			"cmake/SeisComP.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 778,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "etc/descriptions",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_mb.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_mb_bb.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_mb_idc.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_ml.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_ml_idc.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_mlc.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_mlv.xml",
+				"src/base/common/libs/seiscomp/processing/magnitudes/descriptions/global_ms_20.xml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/magnitudes/IDC",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/processing/magnitudes/data/qfvc.mb",
+				"src/base/common/libs/seiscomp/processing/magnitudes/data/global.ml"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/processing/magnitudes",
+		"source" : "src/base/common/libs/seiscomp/processing/magnitudes"
+	}
+}

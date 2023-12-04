@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/seedlink/plugins/sockplugin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/seedlink",
+			"paths" : 
+			[
+				"bin/sock_plugin"
+			],
+			"targetId" : "sock_plugin::@dc52824c46432fff9f03",
+			"targetIndex" : 149,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/seedlink/plugins/sockplugin",
+		"source" : "src/base/seedlink/plugins/sockplugin"
+	}
+}

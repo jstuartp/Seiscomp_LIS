@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/base/common/apps/messaging/scmaster/plugins",
+		"source" : "src/base/common/apps/messaging/scmaster/plugins"
+	}
+}

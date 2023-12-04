@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"src/base/seedlink/plugins/echopro_plugin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/seedlink",
+			"paths" : 
+			[
+				"bin/echopro_plugin"
+			],
+			"targetId" : "echopro_plugin::@ac95851a91031876c789",
+			"targetIndex" : 24,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/seedlink/plugins/echopro_plugin",
+		"source" : "src/base/seedlink/plugins/echopro_plugin"
+	}
+}

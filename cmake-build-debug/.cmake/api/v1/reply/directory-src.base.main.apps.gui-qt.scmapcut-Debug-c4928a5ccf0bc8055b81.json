@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_GUI_EXECUTABLE"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/main/apps/gui-qt/scmapcut/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 630,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/scmapcut"
+			],
+			"targetId" : "scmapcut::@a1efd4e0b94922b7cc96",
+			"targetIndex" : 109,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/main/apps/gui-qt/scmapcut",
+		"source" : "src/base/main/apps/gui-qt/scmapcut"
+	}
+}

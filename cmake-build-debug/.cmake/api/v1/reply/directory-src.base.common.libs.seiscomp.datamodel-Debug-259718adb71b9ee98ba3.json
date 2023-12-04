@@ -1,0 +1,195 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_SUBDIR_SOURCES"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/libs/seiscomp/datamodel/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 229,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/arclink.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/binary.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/bson.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/csv.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/hyp71sum2k.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/ims10.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/json.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/quakeml.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/scdm051.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/datamodel/exchange",
+			"paths" : 
+			[
+				"src/base/common/libs/seiscomp/datamodel/exchange/trunk.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/libs/seiscomp/datamodel",
+		"source" : "src/base/common/libs/seiscomp/datamodel"
+	}
+}

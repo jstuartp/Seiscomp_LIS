@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_LIB_INSTALL_HEADERS",
+			"SC_ADD_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/apps/messaging/scmaster/seiscomp/broker/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 356,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/seiscomp/broker",
+			"paths" : 
+			[
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/client.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/group.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/hashset.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/message.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/messagedispatcher.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/messageprocessor.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/processor.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/protocol.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/queue.h",
+				"src/base/common/apps/messaging/scmaster/seiscomp/broker/statistics.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libseiscomp_broker.so"
+			],
+			"targetId" : "seiscomp_broker::@79748784f9ca55b5580b",
+			"targetIndex" : 132,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/apps/messaging/scmaster/seiscomp/broker",
+		"source" : "src/base/common/apps/messaging/scmaster/seiscomp/broker"
+	}
+}

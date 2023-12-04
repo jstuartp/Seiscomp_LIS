@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"SC_ADD_PLUGIN_LIBRARY"
+		],
+		"files" : 
+		[
+			"cmake/SeisComP.cmake",
+			"src/base/common/apps/messaging/scmaster/plugins/dbg-delay/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/plugins/scmaster",
+			"paths" : 
+			[
+				"lib/dbg-delay.so"
+			],
+			"targetId" : "dbg-delay::@a88a066130a11ed100b8",
+			"targetIndex" : 19,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/base/common/apps/messaging/scmaster/plugins/dbg-delay",
+		"source" : "src/base/common/apps/messaging/scmaster/plugins/dbg-delay"
+	}
+}
