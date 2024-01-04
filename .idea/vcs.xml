@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/contrib-gns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/contrib-ipgp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/contrib-sed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/extras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/base/seedlink" vcs="Git" />
   </component>
 </project>
